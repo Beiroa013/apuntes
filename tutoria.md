@@ -23,3 +23,8 @@ http://www.matthiaskauer.com/2015/03/install-boot-repair-on-debian-from-ubuntu-p
 ###instalar htop
 
 sudo apt-get install htop
+
+###Para ejecutar scripts
+
+´´´sh
+bash nombre_del_script.sh
