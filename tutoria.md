@@ -4,7 +4,6 @@ Tutorial sobre Debian.
 
 ###
 ´´´sh
-
 su
 apt-get install sudo
 sudo adduser nombre_usuario sudo
@@ -28,3 +27,4 @@ sudo apt-get install htop
 
 ´´´sh
 bash nombre_del_script.sh
+´´´
